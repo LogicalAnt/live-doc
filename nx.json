@@ -7,5 +7,15 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "live-doc": {
+      "tags": []
+    },
+    "live-doc-e2e": {
+      "tags": []
+    },
+    "socket-runner": {
+      "tags": []
+    }
+  }
 }
