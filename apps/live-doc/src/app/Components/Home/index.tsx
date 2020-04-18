@@ -22,6 +22,7 @@ export const Home = () => {
   const classes = useStyles();
   const [activeButton, setActiveButton] = useState(1);
   const editorSize: any = activeButton * 4;
+
   return (
     <>
       <div className={classes.root} style={{ marginTop: 50 }}>
