@@ -4,6 +4,8 @@
 
 LiveDoc is a small live editor using React-Quill editor and Socket.io
 
+![my image](/public/image/live-doc-intro.gif)
+
 ---
 
 ## Installation
